@@ -124,7 +124,7 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <p>
-                        Only levels that have 15 CPS frame perfect spam are allowed on the list. Higher FPS or harder methods are allowed to make the level harder.
+                        Only levels that have 15 CPS frame perfect spam are allowed on the list. Higher FPS like 120 FPS (twice the FPS) or harder methods like jitterclicking are allowed to make the level harder.
                     </p>
                 </div>
             </div>
