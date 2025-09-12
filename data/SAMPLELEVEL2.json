@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 74578618,
+    "name": "Realism",
+    "author": "spampurel",
+    "creators": [spampurel],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=JiHf3XOpFhg&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F&source_ve_path=MjM4NTE",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "FPS": "60",
     "records": [
     ]
 }
