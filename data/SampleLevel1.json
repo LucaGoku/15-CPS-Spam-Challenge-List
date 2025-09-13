@@ -9,6 +9,16 @@
     "FPS": "60",
     "records": [
         {
+            "user": "JoeBTD",
+            "link": "https://www.youtube.com/watch?v=Lh0mBflpZzY&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=mBZodbs4M9M&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
