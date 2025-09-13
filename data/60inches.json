@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "FPS": "60",
     "records": [
-
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/zVoiWgbRqJM?si=bCr5L88QnqE6iS3H",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
