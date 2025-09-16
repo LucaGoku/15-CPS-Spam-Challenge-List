@@ -2,11 +2,19 @@
     "id": 116372204,
     "name": "welociome to canada",
     "author": "juwon1515",
-    "creators": ["juwon1515"],
+    "creators": [
+        "juwon1515"
+    ],
     "verifier": "ywuChaos",
     "verification": "https://www.youtube.com/watch?v=Xu9rV1ltNkE",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [
+        "60fps",
+        "upwards",
+        "15fps",
+        "straight"
+    ],
     "records": [
         {
             "user": "loooookkk",

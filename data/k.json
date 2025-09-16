@@ -2,11 +2,14 @@
     "id": 69694865,
     "name": "k",
     "author": "Th3Name",
-    "creators": ["Th3Name"],
+    "creators": [
+        "Th3Name"
+    ],
     "verifier": "loooookkk",
     "verification": "https://www.youtube.com/watch?v=pQSmddwKbgo",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [],
     "records": [
         {
             "user": "PaperGuy",

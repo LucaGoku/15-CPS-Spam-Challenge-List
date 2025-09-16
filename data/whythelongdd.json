@@ -7,6 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=MJ--3OKJJIg",
     "percentToQualify": "100",
     "FPS": "60",
-    "records": [
-    ]
+    "tags": [
+        "15fps",
+        "upwards",
+        "60fps",
+        "downwards"
+    ],
+    "records": []
 }

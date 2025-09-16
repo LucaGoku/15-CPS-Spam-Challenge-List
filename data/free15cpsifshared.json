@@ -2,11 +2,16 @@
     "id": 98121986,
     "name": "free15cpsifshared",
     "author": "thepastel",
-    "creators": ["thepastel"],
+    "creators": [
+        "thepastel"
+    ],
     "verifier": "Pastelliano",
     "verification": "https://www.youtube.com/watch?v=s5MEaA9VvzM",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [
+        "60fps"
+    ],
     "records": [
         {
             "user": "PaperGuy",

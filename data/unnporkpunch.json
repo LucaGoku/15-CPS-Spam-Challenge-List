@@ -2,11 +2,18 @@
     "id": 74162134,
     "name": "Unnerfed Pork Punch",
     "author": "TTSum",
-    "creators": ["Tap33"],
+    "creators": [
+        "Tap33"
+    ],
     "verifier": "JoeBTD",
     "verification": "https://www.youtube.com/watch?v=UCHKU-EuaV4",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [
+        "15fps",
+        "upwards",
+        "straight"
+    ],
     "records": [
         {
             "user": "PaperGuy",

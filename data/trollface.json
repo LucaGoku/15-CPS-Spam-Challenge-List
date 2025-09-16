@@ -2,17 +2,22 @@
     "id": 116490879,
     "name": "trollface spam",
     "author": "cookie498",
-    "creators": ["pixelfactorial"],
+    "creators": [
+        "pixelfactorial"
+    ],
     "verifier": "pixelfactorial",
     "verification": "https://youtu.be/0uVxcx_arcM",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [
+        "straight"
+    ],
     "records": [
         {
-         "user": "ywuChaos",
-         "hz": 60,
-         "percent": 100,
-         "link": "https://youtu.be/0uVxcx_arcM"
+            "user": "ywuChaos",
+            "hz": 60,
+            "percent": 100,
+            "link": "https://youtu.be/0uVxcx_arcM"
         },
         {
             "user": "Astroguy",
@@ -27,10 +32,10 @@
             "percent": 100
         },
         {
-        "user": "ad3usgmd",
-        "link": "https://www.youtube.com/watch?v=-Es8WJq4cvY",
-        "hz": "60",
-        "percent": 100
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=-Es8WJq4cvY",
+            "hz": "60",
+            "percent": 100
         },
         {
             "user": "loooookkk",

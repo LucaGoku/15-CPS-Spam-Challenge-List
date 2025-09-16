@@ -2,11 +2,19 @@
     "id": 117282215,
     "name": "Cats",
     "author": "M4n1aa",
-    "creators": ["M4n1aa"],
+    "creators": [
+        "M4n1aa"
+    ],
     "verifier": "ywuChaos",
     "verification": "https://www.youtube.com/watch?v=l2HuarkgxVE",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [
+        "60fps",
+        "upwards",
+        "straight",
+        "15fps"
+    ],
     "records": [
         {
             "user": "loooookkk",

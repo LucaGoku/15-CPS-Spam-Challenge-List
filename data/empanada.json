@@ -2,17 +2,25 @@
     "id": 65743624,
     "name": "Empanada",
     "author": "zLunarGD",
-    "creators": ["zLunarGD"],
+    "creators": [
+        "zLunarGD"
+    ],
     "verifier": "mangosa",
     "verification": "https://www.youtube.com/watch?v=amkPxyWgJnM",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [
+        "downwards",
+        "upwards",
+        "60fps",
+        "straight"
+    ],
     "records": [
         {
-        "user": "PaperGuy",
-        "link": "https://www.youtube.com/watch?v=z5E8YUYY8Sg",
-        "hz": 60,
-        "percent": 100
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=z5E8YUYY8Sg",
+            "hz": 60,
+            "percent": 100
         },
         {
             "user": "Frozix",
@@ -61,7 +69,6 @@
             "percent": 100,
             "hz": 60
         },
-
         {
             "user": "Poulen",
             "link": "https://youtu.be/sxfVjqjfPfA?si=_eKE-TnqMsmLdBPR",
@@ -87,22 +94,22 @@
             "hz": 60
         },
         {
-        "user": "ywuChaos",
-        "link": "https://youtu.be/SVfGd6mo3-8",
-        "hz": "60",
-        "percent": 100
+            "user": "ywuChaos",
+            "link": "https://youtu.be/SVfGd6mo3-8",
+            "hz": "60",
+            "percent": 100
         },
         {
-        "user": "MiRPacK19",
-        "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1396811544066785460",
-        "hz": "60",
-        "percent": 100
+            "user": "MiRPacK19",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1396811544066785460",
+            "hz": "60",
+            "percent": 100
         },
         {
-        "user": "Thepaekboy",
-        "link": "https://www.youtube.com/watch?v=WGA6UYch6PQ",
-        "hz": "60",
-        "percent": 100
+            "user": "Thepaekboy",
+            "link": "https://www.youtube.com/watch?v=WGA6UYch6PQ",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }

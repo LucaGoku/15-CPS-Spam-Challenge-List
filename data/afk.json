@@ -7,12 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=0OZ6_qo8bG4",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [
+        "straight",
+        "15fps",
+        "downwards",
+        "60fps"
+    ],
     "records": [
         {
-        "user": "PaperGuy",
-        "link": "https://youtu.be/0OZ6_qo8bG4?list=PL2-Fyo9dQ1LjhEXFs_f50DUTjnyRGt9K6&t=23",
-        "hz": 60,
-        "percent": 100
+            "user": "PaperGuy",
+            "link": "https://youtu.be/0OZ6_qo8bG4?list=PL2-Fyo9dQ1LjhEXFs_f50DUTjnyRGt9K6&t=23",
+            "hz": 60,
+            "percent": 100
         },
         {
             "user": "Frozix",
@@ -33,9 +39,9 @@
             "percent": 100
         },
         {
-        "user": "pixelfactorial",
-        "hz": 60,
-        "percent": 100
+            "user": "pixelfactorial",
+            "hz": 60,
+            "percent": 100
         },
         {
             "user": "Me24345",
@@ -67,16 +73,16 @@
             "percent": 100
         },
         {
-        "user": "ywuChaos",
-        "link": "https://youtu.be/X1DI3Rw02a4",
-        "hz": "60",
-        "percent": 100
+            "user": "ywuChaos",
+            "link": "https://youtu.be/X1DI3Rw02a4",
+            "hz": "60",
+            "percent": 100
         },
         {
-        "user": "Thepaekboy",
-        "link": "https://www.youtube.com/watch?v=KwUP5stjx9U",
-        "hz": "60",
-        "percent": 100
+            "user": "Thepaekboy",
+            "link": "https://www.youtube.com/watch?v=KwUP5stjx9U",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }

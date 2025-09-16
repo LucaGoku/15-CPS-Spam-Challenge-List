@@ -2,11 +2,14 @@
     "id": 115844933,
     "name": "not hard r",
     "author": "aelzfr",
-    "creators": ["aelzfr"],
+    "creators": [
+        "aelzfr"
+    ],
     "verifier": "ywuChaos",
     "verification": "https://www.youtube.com/watch?v=gDXIgMH-6Dc",
     "percentToQualify": "100",
     "FPS": "60",
+    "tags": [],
     "records": [
         {
             "user": "PaperGuy",
