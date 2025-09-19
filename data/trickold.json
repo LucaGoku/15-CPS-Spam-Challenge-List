@@ -9,12 +9,7 @@
     "verification": "https://www.youtube.com/watch?v=jtDPrQUkRdc",
     "percentToQualify": "100",
     "FPS": "60",
-    "tags": [
-        "15fps",
-        "upwards",
-        "downwards",
-        "straight"
-    ],
+    "tags": ["60 FPS", "No Transition", "Straight Spam"],
     "records": [
         {
             "user": "PaperGuy",
