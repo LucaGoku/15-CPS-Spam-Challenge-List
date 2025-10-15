@@ -6,7 +6,7 @@
     "verifier": "pixelfactorial",
     "verification": "https://www.youtube.com/watch?v=W7ObL4dYQDg",
     "percentToQualify": "100",
-    "FPS": 90,
+    "fps": "90",
     "tags": ["60 FPS", "With Transition", "Straight Spam"],
     "records": [
         {
